@@ -1,0 +1,31 @@
+# Diretórios de build
+/build/
+/dist/
+/out/
+
+# Dependências instaladas localmente
+/node_modules/
+/.venv/
+/vendor/
+
+# Arquivos de configuração específicos do ambiente
+.env
+.env.local
+.env.*.local
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDEs
+.vscode/
+.idea/
