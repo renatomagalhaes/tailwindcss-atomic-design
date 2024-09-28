@@ -4,19 +4,19 @@ Bem-vindo ao **QuickStart: Tailwind CSS com Atomic Design**! Este guia foi criad
 
 ## 📚 Conteúdo do QuickStart
 
-1. [Introdução](#1-introdução)
-2. [Fundamentos do Tailwind CSS](#2-fundamentos-do-tailwind-css)
-3. [Introdução ao Atomic Design](#3-introdução-ao-atomic-design)
-4. [Componentes do Atomic Design](#4-componentes-do-atomic-design)
-5. [Estrutura de Pastas para Atomic Design com Tailwind CSS](#5-estrutura-de-pastas-para-atomic-design-com-tailwind-css)
-6. [Vantagens e Desvantagens do Atomic Design](#6-vantagens-e-desvantagens-do-atomic-design)
-7. [Implementação Básica com Tailwind CSS](#7-implementação-básica-com-tailwind-css)
-8. [Implementação com Laravel](#8-implementação-com-laravel)
-9. [Implementação com Vue.js](#9-implementação-com-vuejs)
-10. [Otimização do Tailwind CSS](#10-otimização-do-tailwind-css)
-11. [Técnicas Avançadas](#11-técnicas-avançadas)
-12. [Conclusão](#12-conclusão)
-13. [Referências](#13-referências)
+1. [Introdução](1_introducao.md)
+2. [Fundamentos do Tailwind CSS](2_fundamentos_tailwind.md)
+3. [Introdução ao Atomic Design](3_introducao_atomic_design.md)
+4. [Componentes do Atomic Design](4_componentes_atomic_design.md)
+5. [Estrutura de Pastas para Atomic Design com Tailwind CSS](5_estrutura_pastas.md)
+6. [Vantagens e Desvantagens do Atomic Design](6_vantagens_desvantagens.md)
+7. [Implementação Básica com Tailwind CSS](7_implementacao_basica.md)
+8. [Implementação com Laravel](8_implementacao_laravel.md)
+9. [Implementação com Vue.js](9_implementacao_vuejs.md)
+10. [Otimização do Tailwind CSS](10_otimizacao_tailwind.md)
+11. [Técnicas Avançadas](11_tecnicas_avancadas.md)
+12. [Conclusão](12_conclusao.md)
+13. [Referências](13_referencias.md)
 
 ## 🚀 Objetivos do QuickStart
 
@@ -31,29 +31,6 @@ Bem-vindo ao **QuickStart: Tailwind CSS com Atomic Design**! Este guia foi criad
 - Conhecimentos básicos de HTML, CSS e JavaScript.
 - Familiaridade com o framework Laravel e/ou Vue.js é recomendada, mas não obrigatória.
 - Ambiente de desenvolvimento configurado com Node.js e NPM.
-
-## 📂 Estrutura do Repositório
-
-```
-tailwindcss-atomic-design/
-├── 1_introducao.md
-├── 2_fundamentos_tailwind.md
-├── 3_introducao_atomic_design.md
-├── 4_componentes_atomic_design.md
-├── 5_estrutura_pastas.md
-├── 6_vantagens_desvantagens.md
-├── 7_implementacao_basica.md
-├── 8_implementacao_laravel.md
-├── 9_implementacao_vuejs.md
-├── 10_otimizacao_tailwind.md
-├── 11_tecnicas_avancadas.md
-├── 12_conclusao.md
-├── 13_referencias.md
-├── images/
-│   └── ...
-├── README.md
-└── index.md
-```
 
 ## 📖 Como Usar Este QuickStart
 
