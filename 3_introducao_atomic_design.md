@@ -4,6 +4,8 @@
 
 **Atomic Design** é uma metodologia de criação de sistemas de design desenvolvida por Brad Frost. Ela propõe a construção de interfaces de usuário a partir de componentes menores e reutilizáveis, organizados em uma hierarquia lógica. A abordagem facilita a consistência, a manutenção e a escalabilidade dos projetos de design e desenvolvimento.
 
+![Atomic-Design](./images/atomic-design.png)
+
 ## 🌟 Por Que Utilizar Atomic Design?
 
 - **Consistência:** Garante que todos os componentes sigam um padrão visual e funcional, promovendo uma experiência de usuário unificada.
@@ -160,26 +162,26 @@ Integrar **Atomic Design** com **Tailwind CSS** facilita a criação de componen
 ```bash
 tailwindcss-atomic-design/
 ├── atoms/
-│   ├── buttons.md
-│   ├── inputs.md
+│   ├── buttons.html
+│   ├── inputs.html
 │   └── ...
 ├── molecules/
-│   ├── form-group.md
+│   ├── form-group.html
 │   └── ...
 ├── organisms/
-│   ├── navbar.md
+│   ├── navbar.html
 │   └── ...
 ├── templates/
-│   └── main-layout.md
+│   └── main-layout.html
 ├── pages/
-│   └── home.md
+│   └── home.html
 ├── advanced/
-│   ├── optimization.md
+│   ├── optimization.html
 │   └── ...
 ├── images/
 │   └── ...
 ├── README.md
-└── index.md
+└── index.html
 ```
 
 ## 📈 Quando Utilizar Atomic Design
